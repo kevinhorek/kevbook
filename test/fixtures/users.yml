@@ -1,0 +1,7 @@
+kevin:
+  first_name: 'Kevin'
+  last_name: 'Horek'
+  email: 'kevin@kevinhorek.com'
+  profile_name: 'kevinhorek'
+  password: 'password'
+  password_confirmation: 'password'
